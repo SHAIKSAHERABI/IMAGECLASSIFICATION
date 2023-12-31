@@ -1,11 +1,7 @@
 ![](ui_snapshot.jpg)
 
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 25 people,
-1) Maria Sharapova
-2) Serena Williams
-3) Virat Kohli
-4) Roger Federer
-5) Lionel Messi
+In this data science and machine learning project, we classify political leaders . We restrict classification to only 25 people,
+
 
 Here is the folder structure,
 * UI : This contains ui website code 
